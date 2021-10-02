@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #f6d743;
+  background: #f4f4f4;
   font-family: "Roboto", sans-serif;
   display: flex;
   flex-direction: column;
@@ -17,13 +17,13 @@ body {
 
 h1 {
   margin: 10px;
-  color: white;
+  color: #6983aa;
   font-size: 50px;
 }
 
 .box {
-  background-color: #649d66;
-  color: white;
+  background-color: #8ec6c5;
+  color: #6983aa;
   display: flex;
   align-items: center;
   justify-content: center;
